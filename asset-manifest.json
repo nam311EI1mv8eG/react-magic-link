@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a95fa4f9.css",
+    "main.js": "./static/js/main.18627639.js",
+    "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
+    "static/media/cleansplash.png": "./static/media/cleansplash.589982fdd1ab25267ebb.png",
+    "static/media/login.svg": "./static/media/login.a1de1e2a411ee20fdeb4.svg",
+    "static/media/main.svg": "./static/media/main.f7e952b2da9077756e2f.svg",
+    "static/media/link.svg": "./static/media/link.29f364452ed1749af1011a2748ef6caa.svg",
+    "static/media/loading.svg": "./static/media/loading.68969fb36e3f1c4bd1e687fd54846006.svg",
+    "index.html": "./index.html",
+    "static/media/check.svg": "./static/media/check.9e20c3021b2ab89cbf0c45ea1897243a.svg",
+    "static/media/down-arrow.svg": "./static/media/down-arrow.b49d80c23a6e939007085bc1a6b752d1.svg",
+    "static/media/nft-two.svg": "./static/media/nft-two.ede1b64517bbf6b42d08d9b0fe7e6506.svg",
+    "static/media/nft-one.svg": "./static/media/nft-one.80b03537f84a260d54a48bf87e774c80.svg",
+    "static/media/nft-three.svg": "./static/media/nft-three.04ad173089a9ffd5f37f303feb891461.svg",
+    "main.a95fa4f9.css.map": "./static/css/main.a95fa4f9.css.map",
+    "main.18627639.js.map": "./static/js/main.18627639.js.map",
+    "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a95fa4f9.css",
+    "static/js/main.18627639.js"
+  ]
+}
